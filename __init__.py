@@ -4,6 +4,7 @@
 # https://stefanoflore.it
 # https://ai-wiz.art
 
+
 import os
 import random
 from .legacy import PortraitMaster
